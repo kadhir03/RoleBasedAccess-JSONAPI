@@ -1,0 +1,38 @@
+[
+    {
+        "username": "user4",
+        "password": "$2a$08$y/T//JOL52OaeOxJbLs2Uu0uzzYdKZFY5xtayXXVJoalxkcvXn9X.",
+        "roleId": 1,
+        "id": 1
+    },
+    {
+        "username": "user5",
+        "password": "$2a$08$GqT2Mg5UJAX.yp02N8eyN.Nw80VFnY7lvF7h5nXPZ7nZ.dCab.yzq",
+        "roleId": 2,
+        "id": 3
+    },
+    {
+        "username": "user6",
+        "password": "$2a$08$tbu74IIlfTDtj6MzWAEwluxDmRFmfKCOGOEJLtu7qoGhA9iZKXFai",
+        "roleId": 2,
+        "id": 4
+    },
+    {
+        "username": "user67",
+        "password": "$2a$08$GtC9XZDWsqLjXmSohFNYhuKXe33/twp8H2VrgqYOJnqKmqaEtBBk2",
+        "roleId": 1,
+        "id": 5
+    },
+    {
+        "username": "usernew",
+        "password": "$2a$08$dXAtEzF52jWBRnQLZXbhXOfW3aiFdedwM96.GGb/alJydlT8.S1zO",
+        "roleId": 1,
+        "id": 6
+    },
+    {
+        "username": "user637",
+        "password": "$2a$08$PsHuc7Cct3c8asqCFTbLSuPyN5O.mvJIun25nOc69p5iGtTHFEnfG",
+        "roleId": 1,
+        "id": 7
+    }
+]

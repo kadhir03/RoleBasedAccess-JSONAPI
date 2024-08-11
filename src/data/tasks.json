@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Nueva Tarea",
+        "description": "Descripción opcional de la tarea",
+        "dueDate": "2024-08-08T05:00:00.000Z",
+        "status": true,
+        "createdBy": 1,
+        "assignedTo": 2,
+        "id": 3
+    },
+    {
+        "title": "nww Tarea",
+        "description": "Descripción opcional de la tarea",
+        "dueDate": "2024-08-08T05:00:00.000Z",
+        "status": true,
+        "assignedTo": 3,
+        "state": "pendiente",
+        "id": 4
+    },
+    {
+        "title": "nww Tarea",
+        "description": "Descripción opcional de la tarea",
+        "dueDate": "2024-08-08T05:00:00.000Z",
+        "status": true,
+        "assignedTo": 3,
+        "state": "pendiente",
+        "id": 5
+    },
+    {
+        "title": "nww Tarea",
+        "description": "Descripción opcional de la tarea",
+        "dueDate": "2024-08-08T05:00:00.000Z",
+        "status": true,
+        "assignedTo": 3,
+        "state": "pendiente",
+        "id": 6
+    },
+    {
+        "title": "nww Tarea",
+        "description": "Descripción opcional de la tarea",
+        "dueDate": "2024-08-08T05:00:00.000Z",
+        "status": true,
+        "assignedTo": 3,
+        "state": "pendiente",
+        "id": 7
+    },
+    {
+        "title": "nww Tarea",
+        "description": "Descripción opcional de la tarea",
+        "dueDate": "2024-08-08T05:00:00.000Z",
+        "status": true,
+        "assignedTo": 3,
+        "state": "pendiente",
+        "id": 8
+    }
+]
